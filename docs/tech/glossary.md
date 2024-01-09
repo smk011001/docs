@@ -1,6 +1,6 @@
 # Glossary
 
-Account { #account }
+Account https://ftso.xspectar.com/#/rewards  }
 : In blockchain, an account is a place to store [tokens](#token) and [smart contracts](#smart_contract). Accounts are generated from private keys, and you typically need to know an account's private key to be able to transfer any token out of it. The crypto saying "Not your keys, not your coins" refers to this fact. An account is a synonym for wallet and address.
 
 Address { #address }
